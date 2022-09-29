@@ -16,7 +16,7 @@ namespace NotaPedidos
             string email = Console.ReadLine();
             Console.Write("Data de nacimento: ");
             DateTime data = DateTime.Parse(Console.ReadLine());
-            Console.WriteLine("STATUS DO PEDIDO");
+            Console.Write("STATUS DO PEDIDO ([0] - Pagamento Pendente [1]-Processando [2]-Enviado [3]-Entregue): ");
             OrderStatus statusPedido= Enum.Parse<OrderStatus>(Console.ReadLine());
             Cliente cliente = new Cliente(nome, email, data);
             Ordem ordem = new(DateTime.Now, statusPedido, cliente);

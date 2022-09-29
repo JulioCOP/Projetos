@@ -8,7 +8,7 @@ namespace NotaPedidos.Entities.Enums
 {
     enum OrderStatus : int
     {
-       PagametnoPendente=0,
+       PagamentoPendente=0,
        Processando=1,
        Enviado =2,
        Entregue =3
