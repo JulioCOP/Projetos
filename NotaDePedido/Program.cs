@@ -41,6 +41,9 @@ namespace NotaPedidos
                 OrdemItem ordemItem = new OrdemItem(quantidade, precoProduto);
                 ordem.AddItem(ordemItem);
             }
+            Console.WriteLine();
+            Console.WriteLine("INFORMAÇÕES DO PEDIDO");
+            Console.WriteLine();
             Console.WriteLine(ordem.ToString());
         }
     }
