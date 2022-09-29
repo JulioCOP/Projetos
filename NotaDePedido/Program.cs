@@ -19,10 +19,12 @@ namespace NotaPedidos
             Console.WriteLine("STATUS DO PEDIDO");
             OrderStatus statusPedido= Enum.Parse<OrderStatus>(Console.ReadLine());
             Cliente cliente = new Cliente(nome, email, data);
+            Ordem ordem = new(DateTime.Now, statusPedido, cliente);
+
             Console.WriteLine($"Quantos itens foram comprados por {nome}");
             int numeroPedidos = int.Parse(Console.ReadLine());
 
-            for (int i=1; i < numeroPedidos; i++)
+            for (int i=1; i <= numeroPedidos; i++)
             {
                 Console.WriteLine($"Informe os dados do pedido Nº {i}");
                 Console.Write("Nome do produto: ");
@@ -37,12 +39,9 @@ namespace NotaPedidos
                 Console.Write($"Quantos(as) {nomeProduto} foram comprados ? ");
                 int quantidade = int.Parse(Console.ReadLine());
                 OrdemItem ordemItem = new OrdemItem(quantidade, precoProduto);
-
-            }   
-
- 
-
-
+                ordem.AddItem(ordemItem);
+            }
+            Console.WriteLine(ordem.ToString());
         }
     }
 }
