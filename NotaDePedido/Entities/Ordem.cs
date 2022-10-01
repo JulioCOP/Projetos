@@ -59,12 +59,12 @@ namespace NotaPedidos.Entities
             sb.Append("Status do pedido: ");
             sb.AppendLine(Status.ToString());
             sb.AppendLine("Dados do Cliente(Nome / Data de nascimento / Email: " + Cliente);
-            sb.AppendLine("Ordem dos pedidos: ");
+            sb.AppendLine("Ordem dos pedidos ");
             foreach (OrdemItem itens in OrdemDosItens)
             {
                 sb.AppendLine(itens.ToString());
             }
-            sb.AppendLine($"Preço total da compra de {Cliente} R$: {Total:2}");
+            sb.AppendLine($"Preço total da compra de R$: {Total}");
             return sb.ToString();
         }
     }

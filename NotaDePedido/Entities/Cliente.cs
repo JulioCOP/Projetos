@@ -25,7 +25,7 @@ namespace NotaPedidos.Entities
         }
         public override string ToString()
         {
-            return Nome + Email + DataDeNascimento;
+            return Nome + "/" + "/"+ Email + "/" + "/" + DataDeNascimento;
         }
     }
 

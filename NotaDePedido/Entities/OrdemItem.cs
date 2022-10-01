@@ -25,9 +25,13 @@ namespace NotaPedidos.Entities
 
         public double Subtotal()
         {
-            return Quantidade * Preco;
+            double totalAPagar = Quantidade * Preco;
+            return totalAPagar ;
         }
-       
+        public override string ToString()
+        {
+            return "Quantidade: "+ Quantidade + " Preço: "+ Preco + " Subtotal R$: " + Subtotal().ToString();
+        }
 
     }
 }
