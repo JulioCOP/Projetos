@@ -23,6 +23,10 @@ namespace NotaPedidos.Entities
             Email = email;
             DataDeNascimento = dataDeNascimento;
         }
+        public override string ToString()
+        {
+            return Nome + Email + DataDeNascimento;
+        }
     }
 
 }

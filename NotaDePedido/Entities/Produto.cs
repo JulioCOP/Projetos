@@ -22,7 +22,9 @@ namespace NotaPedidos.Entities
             Nome = nome;
             Preco = preco;
         }
-
-
+        public override string ToString()
+        {
+            return Nome + Preco;
+        }
     }
 }

@@ -42,9 +42,8 @@ namespace NotaPedidos
                 ordem.AddItem(ordemItem);
             }
             Console.WriteLine();
-            Console.WriteLine("INFORMAÇÕES DO PEDIDO");
-            Console.WriteLine();
-            Console.WriteLine(ordem.ToString());
+            Console.WriteLine("DADOS DO PEDIDO");
+            Console.WriteLine(ordem);
         }
     }
 }

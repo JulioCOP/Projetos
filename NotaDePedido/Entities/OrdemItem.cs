@@ -27,6 +27,7 @@ namespace NotaPedidos.Entities
         {
             return Quantidade * Preco;
         }
+       
 
     }
 }
