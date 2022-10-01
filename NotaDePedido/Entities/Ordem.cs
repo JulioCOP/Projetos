@@ -64,7 +64,7 @@ namespace NotaPedidos.Entities
             {
                 sb.AppendLine(itens.ToString());
             }
-            sb.AppendLine($"Preço total da compra de R$: {Total}");
+            sb.AppendLine($"Preço total da compra de R$: {Total().ToString():2}");
             return sb.ToString();
         }
     }

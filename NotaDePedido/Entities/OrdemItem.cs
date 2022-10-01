@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -26,11 +27,11 @@ namespace NotaPedidos.Entities
         public double Subtotal()
         {
             double totalAPagar = Quantidade * Preco;
-            return totalAPagar ;
+            return totalAPagar;
         }
         public override string ToString()
         {
-            return "Quantidade: "+ Quantidade + " Preço: "+ Preco + " Subtotal R$: " + Subtotal().ToString();
+            return "Quantidade: "+ Quantidade + " Preço: "+ Preco + " Subtotal R$: " + Subtotal().ToString("F2",CultureInfo.InvariantCulture);
         }
 
     }
