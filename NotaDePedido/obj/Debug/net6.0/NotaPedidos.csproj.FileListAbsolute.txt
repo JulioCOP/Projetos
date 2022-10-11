@@ -1,0 +1,15 @@
+D:\JULIO\GitHub\Projetos C#\NotaDePedido\bin\Debug\net6.0\NotaPedidos.exe
+D:\JULIO\GitHub\Projetos C#\NotaDePedido\bin\Debug\net6.0\NotaPedidos.deps.json
+D:\JULIO\GitHub\Projetos C#\NotaDePedido\bin\Debug\net6.0\NotaPedidos.runtimeconfig.json
+D:\JULIO\GitHub\Projetos C#\NotaDePedido\bin\Debug\net6.0\NotaPedidos.dll
+D:\JULIO\GitHub\Projetos C#\NotaDePedido\bin\Debug\net6.0\NotaPedidos.pdb
+D:\JULIO\GitHub\Projetos C#\NotaDePedido\obj\Debug\net6.0\NotaPedidos.csproj.AssemblyReference.cache
+D:\JULIO\GitHub\Projetos C#\NotaDePedido\obj\Debug\net6.0\NotaPedidos.GeneratedMSBuildEditorConfig.editorconfig
+D:\JULIO\GitHub\Projetos C#\NotaDePedido\obj\Debug\net6.0\NotaPedidos.AssemblyInfoInputs.cache
+D:\JULIO\GitHub\Projetos C#\NotaDePedido\obj\Debug\net6.0\NotaPedidos.AssemblyInfo.cs
+D:\JULIO\GitHub\Projetos C#\NotaDePedido\obj\Debug\net6.0\NotaPedidos.csproj.CoreCompileInputs.cache
+D:\JULIO\GitHub\Projetos C#\NotaDePedido\obj\Debug\net6.0\NotaPedidos.dll
+D:\JULIO\GitHub\Projetos C#\NotaDePedido\obj\Debug\net6.0\refint\NotaPedidos.dll
+D:\JULIO\GitHub\Projetos C#\NotaDePedido\obj\Debug\net6.0\NotaPedidos.pdb
+D:\JULIO\GitHub\Projetos C#\NotaDePedido\obj\Debug\net6.0\NotaPedidos.genruntimeconfig.cache
+D:\JULIO\GitHub\Projetos C#\NotaDePedido\obj\Debug\net6.0\ref\NotaPedidos.dll
