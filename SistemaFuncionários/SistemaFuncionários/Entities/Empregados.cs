@@ -25,7 +25,8 @@ namespace SistemaFuncionarios.Entities
         }   
         public double Pagamento()
         {
-            return ValorPorHora * Horas;
+            double ValorAReceber = ValorPorHora * Horas;
+            return ValorAReceber;
         }
     }
 }

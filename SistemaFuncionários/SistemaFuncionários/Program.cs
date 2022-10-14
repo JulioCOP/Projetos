@@ -8,6 +8,7 @@ namespace SistemaFuncionarios
     {
         static void Main(string[] args)
         {
+            int qtdFunc = int.Parse(Console.Read("Informe a quantidade de funcionários ?"));
 
         }
     }
