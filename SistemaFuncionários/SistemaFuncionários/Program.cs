@@ -47,7 +47,7 @@ namespace SistemaFuncionarios
             foreach(Empregados emp in list)
             {
                 // Console.WriteLine(emp.ToString()); -> Apenas com este comando, será retornado o local onde a função pagamento está adicionado
-                Console.WriteLine(emp.Nome + "---" + "R$" + emp.Pagamento().ToString());
+                Console.WriteLine(emp.Nome + "---" + "R$" + emp.Pagamento().ToString("F2",CultureInfo.InvariantCulture));
             }
         }
     }
