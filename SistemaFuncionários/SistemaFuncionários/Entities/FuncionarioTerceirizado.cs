@@ -6,17 +6,23 @@ using System.Threading.Tasks;
 
 namespace SistemaFuncionarios.Entities
 {
-    internal class FuncionarioTerceirizado :Empregados
+    internal class FuncionarioTerceirizado : Empregados
     {
         public double CargaAdicional { get; set; }
 
+        public FuncionarioTerceirizado()
+        {
+
+        }
         public FuncionarioTerceirizado (string nome, int horas, double valorPorHora, double cargaAdicional) : base(nome, horas, valorPorHora)
         {
             CargaAdicional = cargaAdicional;
         }
-        public double Pagamento()
+        // Sobreposição do método
+        public override double Pagamento()
+        // Overrride - para a função retornar a função da classe de empregado, referente ao pagamento, que será subescrito, em caso de funcionario terceirizado
         {
-            return CargaAdicional;
+            return base.Pagamento() + 1.1*CargaAdicional;
         }
     }
 }

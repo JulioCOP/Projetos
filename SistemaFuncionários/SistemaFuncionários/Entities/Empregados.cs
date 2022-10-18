@@ -23,10 +23,11 @@ namespace SistemaFuncionarios.Entities
             Horas = horas;
             ValorPorHora = valorPorHora;
         }   
-        public double Pagamento()
+        public virtual double Pagamento()
+        // Virtual -  metodo deve ser subescrito, pois o o funcionário receberá o pagamento que é o resultado de suas horas trabalhadas * o valor que essa hora custa 
+        // Em caso de funcionário terceirizados, o resultado da multiplicação anterior é acrescido 110% da despesa adicional informada.
         {
-            double ValorAReceber = ValorPorHora * Horas;
-            return ValorAReceber;
+            return ValorPorHora * Horas;
         }
     }
 }

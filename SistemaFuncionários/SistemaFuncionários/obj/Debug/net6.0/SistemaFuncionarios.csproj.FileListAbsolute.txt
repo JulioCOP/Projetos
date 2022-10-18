@@ -1,0 +1,15 @@
+D:\JULIO\GitHub\Projetos C#\SistemaFuncionários\SistemaFuncionários\bin\Debug\net6.0\SistemaFuncionarios.exe
+D:\JULIO\GitHub\Projetos C#\SistemaFuncionários\SistemaFuncionários\bin\Debug\net6.0\SistemaFuncionarios.deps.json
+D:\JULIO\GitHub\Projetos C#\SistemaFuncionários\SistemaFuncionários\bin\Debug\net6.0\SistemaFuncionarios.runtimeconfig.json
+D:\JULIO\GitHub\Projetos C#\SistemaFuncionários\SistemaFuncionários\bin\Debug\net6.0\SistemaFuncionarios.dll
+D:\JULIO\GitHub\Projetos C#\SistemaFuncionários\SistemaFuncionários\bin\Debug\net6.0\SistemaFuncionarios.pdb
+D:\JULIO\GitHub\Projetos C#\SistemaFuncionários\SistemaFuncionários\obj\Debug\net6.0\SistemaFuncionarios.csproj.AssemblyReference.cache
+D:\JULIO\GitHub\Projetos C#\SistemaFuncionários\SistemaFuncionários\obj\Debug\net6.0\SistemaFuncionarios.GeneratedMSBuildEditorConfig.editorconfig
+D:\JULIO\GitHub\Projetos C#\SistemaFuncionários\SistemaFuncionários\obj\Debug\net6.0\SistemaFuncionarios.AssemblyInfoInputs.cache
+D:\JULIO\GitHub\Projetos C#\SistemaFuncionários\SistemaFuncionários\obj\Debug\net6.0\SistemaFuncionarios.AssemblyInfo.cs
+D:\JULIO\GitHub\Projetos C#\SistemaFuncionários\SistemaFuncionários\obj\Debug\net6.0\SistemaFuncionarios.csproj.CoreCompileInputs.cache
+D:\JULIO\GitHub\Projetos C#\SistemaFuncionários\SistemaFuncionários\obj\Debug\net6.0\SistemaFuncionarios.dll
+D:\JULIO\GitHub\Projetos C#\SistemaFuncionários\SistemaFuncionários\obj\Debug\net6.0\refint\SistemaFuncionarios.dll
+D:\JULIO\GitHub\Projetos C#\SistemaFuncionários\SistemaFuncionários\obj\Debug\net6.0\SistemaFuncionarios.pdb
+D:\JULIO\GitHub\Projetos C#\SistemaFuncionários\SistemaFuncionários\obj\Debug\net6.0\SistemaFuncionarios.genruntimeconfig.cache
+D:\JULIO\GitHub\Projetos C#\SistemaFuncionários\SistemaFuncionários\obj\Debug\net6.0\ref\SistemaFuncionarios.dll
