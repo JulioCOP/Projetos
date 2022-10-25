@@ -4,4 +4,5 @@ usuário. Produtos importados possuem uma taxa de alfândega e produtos usados p
 e acrescentado ao seu preço final.
 
 A seguir segue o diagrama UML do projeto:
+
 ![image](https://user-images.githubusercontent.com/109772999/197742409-ace97202-52ed-4f99-9a71-4d5c039b7632.png)
