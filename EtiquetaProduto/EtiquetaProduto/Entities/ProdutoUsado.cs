@@ -1,12 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace EtiquetaProduto.Entities
 {
-    internal class ProdutoUsado
+    internal class ProdutoUsado: Produto
     {
         public DateTime DataFabricacao { get; set; }
 
@@ -14,13 +15,13 @@ namespace EtiquetaProduto.Entities
         {
 
         }
-        public ProdutoUsado(DateTime dataFabricacao)
+        public ProdutoUsado(string nome, double preco, DateTime dataFabricacao) : base(nome,preco)
         {
             DataFabricacao = dataFabricacao;
         }
-        public string TagPreco()
+        public override string tagPreco()
         {
-            return DataFabricacao.ToString();
+            return Nome + "( USADO ) " + "R$ " + Preco.ToString("F2",CultureInfo.InvariantCulture) + " -> " + " DATA DE FABRICAÇÃO: " + DataFabricacao.ToString();
         }
 
     }

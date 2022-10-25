@@ -16,7 +16,7 @@ namespace NotaPedidos.Entities
         {
         }
 
-        // Contrutor que rece a variavel como argumento
+        // Contrutor que recebe a variavel como argumento
         public Produto(string nome, double preco)
         {
             Nome = nome;

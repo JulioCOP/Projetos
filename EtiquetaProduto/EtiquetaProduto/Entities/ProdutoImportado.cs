@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Globalization;
 
 namespace EtiquetaProduto.Entities
 {
-    internal class ProdutoImportado : ProdutoUsado
+    internal class ProdutoImportado : Produto
     {
         public double CustoDeTaxa { get; set; }
     // Contrutor padrão 
@@ -15,19 +16,20 @@ namespace EtiquetaProduto.Entities
 
         }
 
-        public ProdutoImportado(double custoDeTaxa)
+        public ProdutoImportado(string nome, double preco, double custoDeTaxa): base(nome, preco)
         {
             CustoDeTaxa = custoDeTaxa;
         }
-        public string TagPreco()
-        {
-            return CustoDeTaxa.ToString();
-        }
         public double PrecoFinal()
         {
-            double precoTotal = CustoDeTaxa * PrecoFinal();
-            return precoTotal;  
+            return Preco + CustoDeTaxa;
         }
+        public override string tagPreco()
+        {
+            return Nome + "R$ " + Preco.ToString("F2", CultureInfo.InvariantCulture) + " -> " + "Taxa de custo da alfândega R$: " + CustoDeTaxa.ToString("F2", CultureInfo.InvariantCulture);
+        }
+
+
     }
     
 }
