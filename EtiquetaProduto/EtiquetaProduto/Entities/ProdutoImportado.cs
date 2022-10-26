@@ -22,11 +22,13 @@ namespace EtiquetaProduto.Entities
         }
         public double PrecoFinal()
         {
-            return Preco + CustoDeTaxa;
+            double precoTaxado= Preco + ((Preco * CustoDeTaxa) / 100);
+            return precoTaxado;
         }
         public override string tagPreco()
         {
-            return Nome + "R$ " + Preco.ToString("F2", CultureInfo.InvariantCulture) + " -> " + "Taxa de custo da alfândega R$: " + CustoDeTaxa.ToString("F2", CultureInfo.InvariantCulture);
+            return Nome + " R$ " + Preco.ToString("F2", CultureInfo.InvariantCulture) + " -> " + "Taxa de custo da alfândega %: " + CustoDeTaxa.ToString("F2", CultureInfo.InvariantCulture) +
+                " Valor total a ser pago R$ " + PrecoFinal().ToString(CultureInfo.InvariantCulture);
         }
 
 

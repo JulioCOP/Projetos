@@ -1,0 +1,15 @@
+D:\JULIO\GitHub\Projetos C#\EtiquetaProduto\EtiquetaProduto\bin\Debug\net6.0\EtiquetaProduto.exe
+D:\JULIO\GitHub\Projetos C#\EtiquetaProduto\EtiquetaProduto\bin\Debug\net6.0\EtiquetaProduto.deps.json
+D:\JULIO\GitHub\Projetos C#\EtiquetaProduto\EtiquetaProduto\bin\Debug\net6.0\EtiquetaProduto.runtimeconfig.json
+D:\JULIO\GitHub\Projetos C#\EtiquetaProduto\EtiquetaProduto\bin\Debug\net6.0\EtiquetaProduto.dll
+D:\JULIO\GitHub\Projetos C#\EtiquetaProduto\EtiquetaProduto\bin\Debug\net6.0\EtiquetaProduto.pdb
+D:\JULIO\GitHub\Projetos C#\EtiquetaProduto\EtiquetaProduto\obj\Debug\net6.0\EtiquetaProduto.csproj.AssemblyReference.cache
+D:\JULIO\GitHub\Projetos C#\EtiquetaProduto\EtiquetaProduto\obj\Debug\net6.0\EtiquetaProduto.GeneratedMSBuildEditorConfig.editorconfig
+D:\JULIO\GitHub\Projetos C#\EtiquetaProduto\EtiquetaProduto\obj\Debug\net6.0\EtiquetaProduto.AssemblyInfoInputs.cache
+D:\JULIO\GitHub\Projetos C#\EtiquetaProduto\EtiquetaProduto\obj\Debug\net6.0\EtiquetaProduto.AssemblyInfo.cs
+D:\JULIO\GitHub\Projetos C#\EtiquetaProduto\EtiquetaProduto\obj\Debug\net6.0\EtiquetaProduto.csproj.CoreCompileInputs.cache
+D:\JULIO\GitHub\Projetos C#\EtiquetaProduto\EtiquetaProduto\obj\Debug\net6.0\EtiquetaProduto.dll
+D:\JULIO\GitHub\Projetos C#\EtiquetaProduto\EtiquetaProduto\obj\Debug\net6.0\refint\EtiquetaProduto.dll
+D:\JULIO\GitHub\Projetos C#\EtiquetaProduto\EtiquetaProduto\obj\Debug\net6.0\EtiquetaProduto.pdb
+D:\JULIO\GitHub\Projetos C#\EtiquetaProduto\EtiquetaProduto\obj\Debug\net6.0\EtiquetaProduto.genruntimeconfig.cache
+D:\JULIO\GitHub\Projetos C#\EtiquetaProduto\EtiquetaProduto\obj\Debug\net6.0\ref\EtiquetaProduto.dll
