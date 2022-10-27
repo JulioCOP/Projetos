@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ProjetoExemplo1.Entities
 {
-    class Acount
+    abstract class Acount
     {
         // Private = permite o acesso a variavel de acesso a conta para este projeto. Porém como o acesso é privativo E NÃO se pode alterar o valor
         public int Number{ get; private set; }
