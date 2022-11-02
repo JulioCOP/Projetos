@@ -1,0 +1,15 @@
+D:\JULIO\GitHub\Projetos C#\ReservaHotel\ReservaHotel\bin\Debug\net6.0\ReservaHotel.exe
+D:\JULIO\GitHub\Projetos C#\ReservaHotel\ReservaHotel\bin\Debug\net6.0\ReservaHotel.deps.json
+D:\JULIO\GitHub\Projetos C#\ReservaHotel\ReservaHotel\bin\Debug\net6.0\ReservaHotel.runtimeconfig.json
+D:\JULIO\GitHub\Projetos C#\ReservaHotel\ReservaHotel\bin\Debug\net6.0\ReservaHotel.dll
+D:\JULIO\GitHub\Projetos C#\ReservaHotel\ReservaHotel\bin\Debug\net6.0\ReservaHotel.pdb
+D:\JULIO\GitHub\Projetos C#\ReservaHotel\ReservaHotel\obj\Debug\net6.0\ReservaHotel.csproj.AssemblyReference.cache
+D:\JULIO\GitHub\Projetos C#\ReservaHotel\ReservaHotel\obj\Debug\net6.0\ReservaHotel.GeneratedMSBuildEditorConfig.editorconfig
+D:\JULIO\GitHub\Projetos C#\ReservaHotel\ReservaHotel\obj\Debug\net6.0\ReservaHotel.AssemblyInfoInputs.cache
+D:\JULIO\GitHub\Projetos C#\ReservaHotel\ReservaHotel\obj\Debug\net6.0\ReservaHotel.AssemblyInfo.cs
+D:\JULIO\GitHub\Projetos C#\ReservaHotel\ReservaHotel\obj\Debug\net6.0\ReservaHotel.csproj.CoreCompileInputs.cache
+D:\JULIO\GitHub\Projetos C#\ReservaHotel\ReservaHotel\obj\Debug\net6.0\ReservaHotel.dll
+D:\JULIO\GitHub\Projetos C#\ReservaHotel\ReservaHotel\obj\Debug\net6.0\refint\ReservaHotel.dll
+D:\JULIO\GitHub\Projetos C#\ReservaHotel\ReservaHotel\obj\Debug\net6.0\ReservaHotel.pdb
+D:\JULIO\GitHub\Projetos C#\ReservaHotel\ReservaHotel\obj\Debug\net6.0\ReservaHotel.genruntimeconfig.cache
+D:\JULIO\GitHub\Projetos C#\ReservaHotel\ReservaHotel\obj\Debug\net6.0\ref\ReservaHotel.dll
