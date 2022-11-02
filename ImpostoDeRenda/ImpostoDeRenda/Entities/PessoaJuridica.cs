@@ -15,8 +15,10 @@ namespace ImpostoDeRenda.Entities
         {
 
         }
-        public PessoaJuridica (int numerodefuncionarios)
+        public PessoaJuridica (string nome, double anualmente, int numerodefuncionarios) : base(nome, anualmente)
         {
+            Nome = nome;
+            Anualmente = anualmente;
             NumeroDeFuncionarios = numerodefuncionarios;
         }
         public override double Imposto()

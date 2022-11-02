@@ -14,13 +14,25 @@ namespace ImpostoDeRenda.Entities
         {
 
         }
-        public PessoaFisica (double gastosaude)
+        public PessoaFisica(string nome, double anualmente, double gastosaude) : base(nome, anualmente) 
         {
+            Nome = nome;
+            Anualmente = anualmente;
             GastoSaude = gastosaude;
+
         }
         public override double Imposto()
         {
-            return (((Anualmente * 25)/100) - ((GastoSaude*50)/100));
+            if (Anualmente < 20000)
+            {
+                double imposto = (((Anualmente * 15) / 100) - ((GastoSaude * 50) / 100));
+                return imposto;
+            }
+            else
+            {
+                double imposto = (((Anualmente * 25) / 100) - ((GastoSaude * 50) / 100));
+                return imposto;
+            }
         }
     }
 }
