@@ -1,0 +1,15 @@
+F:\Curso POO C#\Projetos\InterfaceLocadora\InterfaceLocadora\bin\Debug\net6.0\InterfaceLocadora.exe
+F:\Curso POO C#\Projetos\InterfaceLocadora\InterfaceLocadora\bin\Debug\net6.0\InterfaceLocadora.deps.json
+F:\Curso POO C#\Projetos\InterfaceLocadora\InterfaceLocadora\bin\Debug\net6.0\InterfaceLocadora.runtimeconfig.json
+F:\Curso POO C#\Projetos\InterfaceLocadora\InterfaceLocadora\bin\Debug\net6.0\InterfaceLocadora.dll
+F:\Curso POO C#\Projetos\InterfaceLocadora\InterfaceLocadora\bin\Debug\net6.0\InterfaceLocadora.pdb
+F:\Curso POO C#\Projetos\InterfaceLocadora\InterfaceLocadora\obj\Debug\net6.0\InterfaceLocadora.csproj.AssemblyReference.cache
+F:\Curso POO C#\Projetos\InterfaceLocadora\InterfaceLocadora\obj\Debug\net6.0\InterfaceLocadora.GeneratedMSBuildEditorConfig.editorconfig
+F:\Curso POO C#\Projetos\InterfaceLocadora\InterfaceLocadora\obj\Debug\net6.0\InterfaceLocadora.AssemblyInfoInputs.cache
+F:\Curso POO C#\Projetos\InterfaceLocadora\InterfaceLocadora\obj\Debug\net6.0\InterfaceLocadora.AssemblyInfo.cs
+F:\Curso POO C#\Projetos\InterfaceLocadora\InterfaceLocadora\obj\Debug\net6.0\InterfaceLocadora.csproj.CoreCompileInputs.cache
+F:\Curso POO C#\Projetos\InterfaceLocadora\InterfaceLocadora\obj\Debug\net6.0\InterfaceLocadora.dll
+F:\Curso POO C#\Projetos\InterfaceLocadora\InterfaceLocadora\obj\Debug\net6.0\refint\InterfaceLocadora.dll
+F:\Curso POO C#\Projetos\InterfaceLocadora\InterfaceLocadora\obj\Debug\net6.0\InterfaceLocadora.pdb
+F:\Curso POO C#\Projetos\InterfaceLocadora\InterfaceLocadora\obj\Debug\net6.0\InterfaceLocadora.genruntimeconfig.cache
+F:\Curso POO C#\Projetos\InterfaceLocadora\InterfaceLocadora\obj\Debug\net6.0\ref\InterfaceLocadora.dll
