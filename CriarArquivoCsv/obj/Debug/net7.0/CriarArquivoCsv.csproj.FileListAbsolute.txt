@@ -1,0 +1,15 @@
+F:\Curso POO C#\CriarArquivoCsv\obj\Debug\net7.0\CriarArquivoCsv.csproj.AssemblyReference.cache
+F:\Curso POO C#\CriarArquivoCsv\obj\Debug\net7.0\CriarArquivoCsv.GeneratedMSBuildEditorConfig.editorconfig
+F:\Curso POO C#\CriarArquivoCsv\obj\Debug\net7.0\CriarArquivoCsv.AssemblyInfoInputs.cache
+F:\Curso POO C#\CriarArquivoCsv\obj\Debug\net7.0\CriarArquivoCsv.AssemblyInfo.cs
+F:\Curso POO C#\CriarArquivoCsv\obj\Debug\net7.0\CriarArquivoCsv.csproj.CoreCompileInputs.cache
+F:\Curso POO C#\CriarArquivoCsv\bin\Debug\net7.0\CriarArquivoCsv.exe
+F:\Curso POO C#\CriarArquivoCsv\bin\Debug\net7.0\CriarArquivoCsv.deps.json
+F:\Curso POO C#\CriarArquivoCsv\bin\Debug\net7.0\CriarArquivoCsv.runtimeconfig.json
+F:\Curso POO C#\CriarArquivoCsv\bin\Debug\net7.0\CriarArquivoCsv.dll
+F:\Curso POO C#\CriarArquivoCsv\bin\Debug\net7.0\CriarArquivoCsv.pdb
+F:\Curso POO C#\CriarArquivoCsv\obj\Debug\net7.0\CriarArquivoCsv.dll
+F:\Curso POO C#\CriarArquivoCsv\obj\Debug\net7.0\refint\CriarArquivoCsv.dll
+F:\Curso POO C#\CriarArquivoCsv\obj\Debug\net7.0\CriarArquivoCsv.pdb
+F:\Curso POO C#\CriarArquivoCsv\obj\Debug\net7.0\CriarArquivoCsv.genruntimeconfig.cache
+F:\Curso POO C#\CriarArquivoCsv\obj\Debug\net7.0\ref\CriarArquivoCsv.dll
