@@ -37,7 +37,7 @@ namespace InterfaceLocadora.Services
             // Com o pagamento báse e o imposto já possível associar as classes com as superclasses
 
             carRental.Invoice = new Invoice(basicPayment, tax);
-        }
+        } 
     }
 }
 

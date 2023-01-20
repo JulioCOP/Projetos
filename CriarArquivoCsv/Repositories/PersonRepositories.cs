@@ -13,7 +13,7 @@ namespace CriarArquivoCsv.Repositories
                 new PersonModel
                 {
                     Document = "688.414.350-97",
-                    Name = "Jo�o"
+                    Name = "João"
                 },
                 new PersonModel
                 {
