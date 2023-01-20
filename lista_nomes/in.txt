@@ -1,27 +1,27 @@
-Hyago Ramos, MG20296531
-Júlio César Oliveira Pinto, MG19099412
-Luiz Felipe Evangelista Silva Mascarenhas, MG20470881
-Rodolfo Cezar de Figueiredo Coelho, MG14662146
-Erick Hebert milanio, mg17328251
-Gabriel Henrique Silva Cruz,MG16483470
-Bruno Santos de Oliveira,MG20023-446
-Caio Henrique Izidorio Rosa,MG1870455
-Mauro Márcio Pinto Silvério,MG18416179
-Vitor Eduardo Oliveira Vieira,MG14304386
-Thiago Cantuara Cunha,RG 374961992
-Thomas Neal de Souza,37.823.652-0
-Jardel Oliveira Santos,mg11109567
-Rafael Duarte Lage,mg16701616
-Thales Adriano de Souza Soares,Mg16843379
-Pedro Henrique Faria Barbosa,39267197-9
-Gabriel Allan Ferreira Fernandes,MG20446722
-Thiago Eli Renato Rodrigues,mg15990621
-Arthur Vinicius de Carvalho Gomes, MG20231176
-Samuel Duarte Luciano, MG20697804
-Caio Henrique Izidorio Rosa, MG1870455
-Rhenan Guerra Silva, MG17471642
-Murilo Cruz, MG538716733
-Matheus Henrique de Oliveira Mendonça, mg2016017817
-Marcos Vinicius Sousa Ferreira,Mg20861434
-Gilbert Alexandre Constantino, mg17879944
-Peter Tales De Melo, MG21209396
+Hyago Ramos,MG,20296531
+Júlio César Oliveira Pinto,MG,19099412
+Luiz Felipe Evangelista Silva Mascarenhas,MG,20470881
+Rodolfo Cezar de Figueiredo Coelho,MG,14662146
+Erick Hebert milanio,MG,17328251
+Gabriel Henrique Silva Cruz,MG,16483470
+Bruno Santos de Oliveira,MG,20023446
+Caio Henrique Izidorio Rosa,MG,1870455
+Mauro Márcio Pinto Silvério,MG,18416179
+Vitor Eduardo Oliveira Vieira,MG,14304386
+Thiago Cantuara Cunha,MG,374961992
+Thomas Neal de Souza,MG,378236520
+Jardel Oliveira Santos,MG,11109567
+Rafael Duarte Lage,MG,16701616
+Thales Adriano de Souza Soares,MG,16843379
+Pedro Henrique Faria Barbosa,MG,392671979
+Gabriel Allan Ferreira Fernandes,MG,20446722
+Thiago Eli Renato Rodrigues,MG,15990621
+Arthur Vinicius de Carvalho Gomes,MG,20231176
+Samuel Duarte Luciano,MG,20697804
+Caio Henrique Izidorio Rosa,MG,1870455
+Rhenan Guerra Silva,MG,17471642
+Murilo Cruz,MG,538716733
+Matheus Henrique de Oliveira Mendonça,MG,2016017817
+Marcos Vinicius Sousa Ferreira,MG,20861434
+Gilbert Alexandre Constantino,MG,17879944
+Peter Tales De Melo,MG,21209396

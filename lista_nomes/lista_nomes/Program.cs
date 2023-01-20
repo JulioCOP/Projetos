@@ -1,6 +1,7 @@
 ﻿using System;
 using System.IO;
 using System.Collections.Generic;
+using lista_nomes.Entities;
 
 
 namespace lista_nomes
@@ -13,18 +14,18 @@ namespace lista_nomes
 
             try
             {
-                using (StreamReader sr = File.OpenText(path))  // Comando para abri o arquivo
+                using (StreamReader sr = File.OpenText(path))  // Comando para abrir o arquivo
                 {
-                    List<string> lista = new List<string>(); // Lista criada
+                    List<Players> lista = new List<Players>(); // Lista criada
                     while (!sr.EndOfStream) // Durante o caminho a ser percorrido até o final da lista
                     {
-                        lista.Add(sr.ReadLine()); // Lido e adicionado o nome do arquivo txt na lista criada
+                        lista.Add(new Players(sr.ReadLine())); // Lido e adicionado o nome do arquivo txt na lista criada
                     }
                     // Ordenar a lista criada
                     lista.Sort();
-                    foreach (string str in lista)
+                    foreach (Players player in lista)
                     {
-                        Console.WriteLine(str);
+                        Console.WriteLine(player);
                     }
                 }
             }
