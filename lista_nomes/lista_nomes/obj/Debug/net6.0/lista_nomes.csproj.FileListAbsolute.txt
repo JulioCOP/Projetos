@@ -1,0 +1,15 @@
+F:\Curso POO C#\Projetos\lista_nomes\lista_nomes\bin\Debug\net6.0\lista_nomes.exe
+F:\Curso POO C#\Projetos\lista_nomes\lista_nomes\bin\Debug\net6.0\lista_nomes.deps.json
+F:\Curso POO C#\Projetos\lista_nomes\lista_nomes\bin\Debug\net6.0\lista_nomes.runtimeconfig.json
+F:\Curso POO C#\Projetos\lista_nomes\lista_nomes\bin\Debug\net6.0\lista_nomes.dll
+F:\Curso POO C#\Projetos\lista_nomes\lista_nomes\bin\Debug\net6.0\lista_nomes.pdb
+F:\Curso POO C#\Projetos\lista_nomes\lista_nomes\obj\Debug\net6.0\lista_nomes.csproj.AssemblyReference.cache
+F:\Curso POO C#\Projetos\lista_nomes\lista_nomes\obj\Debug\net6.0\lista_nomes.GeneratedMSBuildEditorConfig.editorconfig
+F:\Curso POO C#\Projetos\lista_nomes\lista_nomes\obj\Debug\net6.0\lista_nomes.AssemblyInfoInputs.cache
+F:\Curso POO C#\Projetos\lista_nomes\lista_nomes\obj\Debug\net6.0\lista_nomes.AssemblyInfo.cs
+F:\Curso POO C#\Projetos\lista_nomes\lista_nomes\obj\Debug\net6.0\lista_nomes.csproj.CoreCompileInputs.cache
+F:\Curso POO C#\Projetos\lista_nomes\lista_nomes\obj\Debug\net6.0\lista_nomes.dll
+F:\Curso POO C#\Projetos\lista_nomes\lista_nomes\obj\Debug\net6.0\refint\lista_nomes.dll
+F:\Curso POO C#\Projetos\lista_nomes\lista_nomes\obj\Debug\net6.0\lista_nomes.pdb
+F:\Curso POO C#\Projetos\lista_nomes\lista_nomes\obj\Debug\net6.0\lista_nomes.genruntimeconfig.cache
+F:\Curso POO C#\Projetos\lista_nomes\lista_nomes\obj\Debug\net6.0\ref\lista_nomes.dll
